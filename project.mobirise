@@ -115,7 +115,7 @@
               "src": "@PROJECT_PATH@/assets/images/betablamelogo-400x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://www.betablame.ml",
+              "link": "www.betablame.ml",
               "title": "",
               "linkInNewWindow": false
             },
@@ -298,9 +298,9 @@
           "_name": "header3",
           "_anchor": "header3-5",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#7e9b9f",
             "showMeta": false
           },
           "title": "There are a multitude of things to consider when deciding on the best course of action for your new website :",
@@ -319,7 +319,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#7e9b9f",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -506,82 +506,6 @@
           "title": "INTRO WITH BACKGROUND VIDEO",
           "text": "This is an intro with beautiful background video and image on the left side.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-2",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "",
-            "showButtons": true,
-            "secondType": "bg-primary",
-            "thirdType": "",
-            "fourthType": ""
-          },
-          "title": "PRICING TABLE",
-          "subtitle": "Pricing table with four columns and solid color background.",
-          "label1": "HOT!",
-          "title1": "STANDARD",
-          "subtitle1": "Description",
-          "currency1": "$",
-          "price1": "0",
-          "period1": "/mo.",
-          "description1": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "label2": "HOT!",
-          "title2": "BUSINESS",
-          "subtitle2": "Description",
-          "currency2": "$",
-          "price2": "0",
-          "period2": "/mo.",
-          "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "label3": "HOT!",
-          "title3": "PREMIUM",
-          "subtitle3": "Description",
-          "currency3": "$",
-          "price3": "0",
-          "period3": "/mo.",
-          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "label4": "HOT!",
-          "title4": "ULTIMATE",
-          "subtitle4": "Description",
-          "currency4": "$",
-          "price4": "0",
-          "period4": "/mo.",
-          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
         },
         {
           "_tags": [
