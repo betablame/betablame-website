@@ -141,7 +141,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/roadahead-2000x1329.png",
+                "image": "@PROJECT_PATH@/assets/images/wayahead-2000x1124.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -155,7 +155,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/roadahead-2000x1329.png",
+                "image": "@PROJECT_PATH@/assets/images/wayahead-2000x1124.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -169,7 +169,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/roadahead-2000x1329.png",
+                "image": "@PROJECT_PATH@/assets/images/wayahead-2000x1124.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -183,7 +183,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/roadahead-2000x1329.png",
+                "image": "@PROJECT_PATH@/assets/images/wayahead-2000x1124.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -197,7 +197,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/roadahead-2000x1329.png",
+                "image": "@PROJECT_PATH@/assets/images/wayahead-2000x1124.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -211,7 +211,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/roadahead-2000x1329.png",
+                "image": "@PROJECT_PATH@/assets/images/wayahead-2000x1124.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
