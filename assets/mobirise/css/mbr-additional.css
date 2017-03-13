@@ -487,6 +487,10 @@ h6,
 #content5-3 p {
   color: #fff;
 }
+#content5-3 DIV {
+  color: #ffffff;
+  font-size: 19px;
+}
 #content5-g .mbr-section-title,
 #content5-g p {
   color: #fff;
@@ -496,6 +500,7 @@ h6,
 }
 #content5-g P {
   text-align: right;
+  font-size: 19px;
 }
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
@@ -512,7 +517,11 @@ h6,
   text-align: right;
   color: #ffffff;
 }
-#msg-box6-j .mbr-section-title,
-#msg-box6-j .lead p {
-  color: #fff;
+#header3-l .mbr-section-title,
+#header3-l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-l H3 {
+  text-align: right;
+  color: #ffffff;
 }
