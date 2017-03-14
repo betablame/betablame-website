@@ -241,8 +241,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2000beach-2000x1502-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/2000beach-2000x1502.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2000beach-2000x1502-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/2000beach-2000x1502-800x600.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -251,8 +251,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2000bridge-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2000bridge-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000bridge-2000x1334-800x533-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2000bridge-2000x1334-800x533.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -261,8 +261,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2000horizon-2000x1124-800x449.png",
-                "image": "@PROJECT_PATH@/assets/images/2000horizon-2000x1124.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2000horizon-2000x1124-800x449-800x449.png",
+                "image": "@PROJECT_PATH@/assets/images/2000horizon-2000x1124-800x449.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -281,8 +281,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2000path-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2000path-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000path-2000x1500-800x600-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2000path-2000x1500-800x600.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -291,20 +291,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2000road-2000x1330-800x532.png",
-                "image": "@PROJECT_PATH@/assets/images/2000road-2000x1330.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2000road-2000x1330-800x532-800x532.png",
+                "image": "@PROJECT_PATH@/assets/images/2000road-2000x1330-800x532.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2000treeline-2000x1335-800x534.png",
-                "image": "@PROJECT_PATH@/assets/images/2000treeline-2000x1335.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2000treeline-2000x1335-800x534-800x534.png",
+                "image": "@PROJECT_PATH@/assets/images/2000treeline-2000x1335-800x534.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 0,
