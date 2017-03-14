@@ -141,7 +141,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/roadahead-2000x1333.png",
+                "image": "@PROJECT_PATH@/assets/images/roadahead-1-2000x1333.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
