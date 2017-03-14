@@ -215,7 +215,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/2000road-2000x1330-800x532.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -300,7 +300,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/2000pier-2000x1333.png",
+                "image": "@PROJECT_PATH@/assets/images/2000pier-2000x1333-800x533.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -313,8 +313,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/2000sunsea-2000x1333.png",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/2000sunsea-2000x1333-800x533.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -402,10 +402,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2000jetty-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/2000jetty-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2000sunsea-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/2000sunsea-2000x1333.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -422,10 +422,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2000road-2000x1330-800x532-800x532.png",
-                "image": "@PROJECT_PATH@/assets/images/2000road-2000x1330-800x532.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2000pier-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/2000pier-2000x1333.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
