@@ -21,10 +21,10 @@
         "isRtl": false
       }
     },
-    "favicon": "@PROJECT_PATH@/assets/images/betablameicon-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/betablamefavicon-128x130.png",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 25,
+    "uniqCompNum": 26,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -112,7 +112,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/betablamelogo-400x128.png",
+              "src": "@PROJECT_PATH@/assets/images/betablameheadlogo-494x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://www.betablame.com",
@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.betablame.ml\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.betablame.com\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -356,7 +356,7 @@
             "showCaption": true
           },
           "title": "IF YES, DOES IT NEED UPDATING?",
-          "caption": "<p>Does your current website reflect your current outlook or portfolio? Is it maximising your potential and engaging the people who visit? Web browsing is no longer a casual lunch break exploration, but is in the hands of the people 24/7 via phone, tablet and desktop.&nbsp;<span style=\"line-height: 1.5;\">Stay up to date with a responsive website that works across all mediums and get connected with your customers, suppliers, friends and colleagues.</span></p>"
+          "caption": "<p>Does your current website reflect your current outlook or portfolio? Is it maximising your potential and engaging the people who visit? Web browsing is no longer something people do on their lunch break, it is at their disposal 24/7 via phone, tablet and desktop. Upgrade to a&nbsp;<span style=\"line-height: 1.5;\">responsive website that works across all mediums and stay connected with your customers, suppliers, friends and colleagues.</span></p>"
         },
         {
           "_styles": {
@@ -378,7 +378,7 @@
             "bgColor": "#efefef",
             "showMeta": false
           },
-          "title": "There are a multitude of things to consider when deciding on the best course of action for your new website :",
+          "title": "There are a number of things to consider when deciding on the best course of action for a new website :",
           "meta": "<br>There are a multitude of things to consider when deciding on the best course of action for your new website :"
         },
         {
@@ -390,7 +390,7 @@
           "_anchor": "features6-e",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -417,8 +417,9 @@
               "name": "sad-face",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "https://www.betablame.com",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title1": "Do I know what I want?",
@@ -432,8 +433,9 @@
               "name": "timer",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "https://www.betablame.com",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title2": "Do I have the time?",
@@ -442,12 +444,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
               "name": "pencil",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "https://www.betablame.com",
               "size": 0,
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title3": "Where do I start?",
@@ -461,8 +465,9 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "https://www.betablame.com",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title4": "Will it cost a lot?",
@@ -471,12 +476,14 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
               "name": "global",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "https://www.betablame.com",
               "size": 0,
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title5": "Will my customers find me?",
@@ -490,8 +497,9 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "https://www.betablame.com",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title6": "Will it work on mobile?",
@@ -567,7 +575,7 @@
               "size": 250
             }
           },
-          "title": "IT DOESN'T HAVE TO BE COMPLICATED!",
+          "title": "IT DOESN'T NEED TO BE COMPLICATED!",
           "text": "We offer a range of fully responsive websites that translate from one device to another,&nbsp;tailored to your specific business or goal. We can provide a full branding and logo design service and furnish you with marketing material to match.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -615,7 +623,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/betablamelogo-400x128.png",
+              "src": "@PROJECT_PATH@/assets/images/betablameheadlogo-494x128.png",
               "width": 128,
               "active": true,
               "link": "https://www.betablame.com",
@@ -625,6 +633,9 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "devices",
+              "family": "MobiriseIcons",
               "link": "",
               "size": 0
             }
